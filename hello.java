@@ -1,6 +1,8 @@
 public class hello{  
     public static void main(String args[]){  
-     System.out.println(89);
+        int g=908;
+        System.out.println(g);
+     System.out.println("koiiiiiiiiiiiiiiiii");
      System.out.println("hiiiiiiiiiiiii");
     }  
 }  
